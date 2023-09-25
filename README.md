@@ -1,6 +1,7 @@
 # Automated-Mail-Sender
+In progress, a quick and useful project.
 
-In progress: This system automatically logs in and scrapes data from [BITS Notice Board](https://onboard.bits-pilani.ac.in/), then sends it as an email. 
+This system automatically logs in and scrapes data from [BITS Notice Board](https://onboard.bits-pilani.ac.in/), then sends it as an email. 
 
 Potential improvements/todos for future reference:
 
