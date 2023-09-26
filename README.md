@@ -5,5 +5,5 @@ This system automatically logs in and scrapes data from [BITS Notice Board](http
 
 Potential improvements/todos for future reference:
 
-1. Extract the content directly in HTML format, rather than separating images and texts.
+1. Handle the few remaining bugs in image size handling.
 2. Integrate with AWS to ensure continuous operation, store the last message sent, and only forward new updates thereafter.
